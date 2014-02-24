@@ -1,0 +1,4 @@
+1 BOPP_12inch_48um 2 BOPP_Log_Roll_48um*Shrink_PVC 5*0 100*1
+2 Random 2 PVC_Carton*BOPP_Carton 0*0 1*4
+3 PVC12 2 PVC1*PVC2 .1*.2 1*4
+4 Random_product 2 Random_Material*Random_Material2 .5*1 10*4

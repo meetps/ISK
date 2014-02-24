@@ -1,0 +1,10 @@
+1 08 Nov Fri 13:20:22 Random 4
+2 08 Nov Fri 13:23:52 BOPP_12inch_48um 5
+3 08 Nov Fri 13:24:14 BOPP_12inch_48um 1
+4 08 Nov Fri 13:25:06 Random 1
+5 08 Nov Fri 15:25:34 Random 3
+6 09 Nov Sat 17:00:15 Random 2
+7 09 Nov Sat 17:00:33 Random 2
+8 10 Nov Sun 07:24:37 Random 1
+9 10 Nov Sun 07:26:05 Random 1
+10 11 Nov Mon 14:49:46 Random_product 1
