@@ -1,5 +1,4 @@
 //Industrial Stock Keeper Pro TM
-//CS101-Project by-Meet P Shah(13D070003 & Akshay Deodhar(13D100002)
 //Header Files
 #include<fstream>
 #include<string>
